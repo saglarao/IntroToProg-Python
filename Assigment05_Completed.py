@@ -7,6 +7,7 @@
 # ChangeLog (Who,When,What):
 # RRoot,1.1.2030,Created started script
 # SOrellana,05/14/2022,Added code to complete assignment 5
+# SOrellana,05/16/2022,Added code to fix removing task messages
 # ------------------------------------------------------------------------ #
 
 # -- Data -- #
